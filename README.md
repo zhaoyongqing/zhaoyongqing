@@ -9,3 +9,4 @@ zhaoyongqing/zhaoyongqing is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 之前只是注册了帐号没有用过，今天试用一下，除了程序也可以在这里记事和写日志啊。
+那个EVERNOT 越来越不象话了，也越来越难用了，广告太多，越来越臃肿，，离开了日记的初衷。
